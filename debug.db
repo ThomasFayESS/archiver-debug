@@ -1,0 +1,4 @@
+record(mbbi, "LLRF-1") {
+    field(SVVL, "7")
+    field(SYST, "RESETTING")
+}
